@@ -1,12 +1,11 @@
-pandas
-streamlit
-# numpy==1.19.5
-numpy
-scikit-learn
-xgboost
-lightgbm
+openai==0.26.4
+streamlit-chat==0.0.2.1
 plotly
+pandas
+numpy
+youtube_transcript_api
+scikit-learn
+joblib
 tensorflow
-# keras==2.4.3
-statsmodels==0.12.2
-
+torch
+transformers
